@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+inputs/
+dataset/
+model/
+*.pt
+*.keras
+*.npy
+*.jpg
+*.jpeg
+*.png
+*.webp
